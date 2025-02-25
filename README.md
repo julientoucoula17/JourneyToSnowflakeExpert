@@ -13,14 +13,16 @@
 
 <br>
 
-### 🎖 Badge 1: Data Warehousing Workshop
-
+### 🎖 Badge 1: Data Warehousing Workshop ✅
+<div align="center">
+  <img src="./Badge 1/Badge 1.pdf" alt="Badge 1" width="600" />
+</div>
 The Data Warehousing workshop is designed for learners who are new to Snowflake or databases in general. 
 Through interactive labs, short videos and a fun scenario, you'll learn the basics: account setup, roles, data loading and semi-structured data processing.
 
 ---
 
-### 🎖 Badge 2: Sharing, Marketplace, & Exchanges Workshop
+### 🎖 Badge 2: Sharing, Marketplace, & Exchanges Workshop (in progress)
 
 A course covering Snowflake's revolutionary data sharing technologies. Learn to create and administer direct shares, shop for data sets on the Data Marketplace, and create and manage exchange data listings. Understand how your organization can get rid of nightly extracts and cumbersome ETL processes and possibly monetize your organization's data. 
 
