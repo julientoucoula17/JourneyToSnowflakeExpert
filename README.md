@@ -21,13 +21,14 @@ Through interactive labs, short videos and a fun scenario, you'll learn the basi
 
 ---
 
-### 🎖 Badge 2: Sharing, Marketplace, & Exchanges Workshop (in progress)
+### 🎖 Badge 2: Sharing, Marketplace, & Exchanges Workshop ✅ 
+[View your Badge](./Badge%202/Badge%202.pdf)
 
 A course covering Snowflake's revolutionary data sharing technologies. Learn to create and administer direct shares, shop for data sets on the Data Marketplace, and create and manage exchange data listings. Understand how your organization can get rid of nightly extracts and cumbersome ETL processes and possibly monetize your organization's data. 
 
 ---
 
-### 🎖 Badge 3: Data Application Builders Workshop
+### 🎖 Badge 3: Data Application Builders Workshop (in progress)
 
 This course covers a wide array of technologies to help build applications that use Snowflake as a back end. Including: Streamlit (Python), SnowSQL, REST APIs, and much more. 
 
