@@ -28,13 +28,14 @@ A course covering Snowflake's revolutionary data sharing technologies. Learn to 
 
 ---
 
-### 🎖 Badge 3: Data Application Builders Workshop (in progress)
+### 🎖 Badge 3: Data Application Builders Workshop ✅
+[View your Badge](./Badge%203/Badge%203.pdf)
 
 This course covers a wide array of technologies to help build applications that use Snowflake as a back end. Including: Streamlit (Python), SnowSQL, REST APIs, and much more. 
 
 ---
 
-### 🎖 Badge 4: Data Lake Workshop
+### 🎖 Badge 4: Data Lake Workshop (in progress)
 
 The Data Lake Workshop (DLKW) covers non-loaded data and the tools you can use in Snowflake to access and analyze that data. Learn about non-loaded data, unstructured data, GeoSpatial data, and hear about the Iceberg tables that are coming soon! Get hands on experience with Parquet and GeoJSON data, and image data. Run GeoSpatial Functions and create your own User Defined Function.
 
